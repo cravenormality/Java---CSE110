@@ -9,7 +9,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class Lab5 {
+public class Lab6 {
     public static void main(String[] args) {
         Scanner key = new Scanner(System.in);
 

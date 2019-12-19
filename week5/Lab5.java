@@ -32,7 +32,7 @@ public class Lab5 {
                 System.out.print("\t");
                 
                 if (doubleArray.length >=8) {
-                    if (j % 8 == 2) {
+                    if (j % 8 == 4) {
                         System.out.println();
                     }
                 }
